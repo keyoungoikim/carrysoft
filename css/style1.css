@@ -120,12 +120,12 @@ header{
     transform:rotate(-45deg);
 }
 section:nth-child(1){
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     width:80%;
     margin:0 auto;
 } 
 section:nth-child(3){
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     width:80%;
     margin:0 auto;
 }
@@ -265,7 +265,7 @@ section:nth-child(6){
 #wrap{
     width:100%;
     background: rgba(0,0,0,.05);
-    padding:0px 0px 20px 0px;
+    padding:0px 0px 30px 0px;
 }
 .allwedo{
     width:80%;
